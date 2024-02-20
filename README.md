@@ -1,2 +1,4 @@
 # git-demo
-git practice
+Git Practice
+<br>
+Author: Syed Zeeshan
